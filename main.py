@@ -34,7 +34,7 @@ def console_show_code(im, white_char=True):
 
 if __name__ == "__main__":
     # params
-    url = "http://elite.nju.edu.cn/jiaowu/"
+    url = "https://elite.nju.edu.cn/jiaowu/"
     data = {"userName": "abc", "password": "123"}
     GPA_max = 5.0
     width = 32
